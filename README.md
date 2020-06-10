@@ -33,7 +33,7 @@ La asignatura de **Base de Datos** tiene como principal propósito que los estud
 	- Lenguaje SQL: Consultar, Ordenar, Filtrar, Agrupar [[TP]](unidad3/tp-sql2.md)
 	- Revisión sobre consultas SQL [[TP]](unidad3/tp-sql3.md)
 	- Introducción al concepto de API web 
-	- Scraping de datos en la web e integración con MySQL
+	- Scraping de datos en la web e Integración con MySQL [[TP]](unidad3/web-scraping-python.md)
 	- Introducción a SGBDs no relacionales: Mongo
         
 - **Unidad 4:** ¿Cómo gestionar datos no estructurados?
