@@ -34,7 +34,7 @@ La asignatura de **Base de Datos** tiene como principal propósito que los estud
 	- Revisión sobre consultas SQL [[TP]](unidad3/tp-sql3.md)
 	- Introducción al concepto de API web 
 	- Scraping de datos en la web e Integración con MySQL [[TP]](unidad3/web-scraping-python.ipynb)
-	- Introducción a SGBDs no relacionales: Mongo
+	- Introducción a SGBDs no relacionales: Mongo [[TP]](unidad3/tp-mongo.ipynb)
         
 - **Unidad 4:** ¿Cómo gestionar datos no estructurados?
 	- Introducción al procesamiento de textos e imágenes
